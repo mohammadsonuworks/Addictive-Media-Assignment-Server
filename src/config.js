@@ -1,4 +1,4 @@
-const UI_APP_URL = "http://localhost:3000";
+const UI_APP_URL = "https://addictive-assignment-ui-a895d1b0ef15.herokuapp.com";
 const APP_LOGIN_URL = `${UI_APP_URL}/login`;
 const REGISTRATION_COMPLETE_MAIL_SUBJECT = "Thank you for creating account.";
 const REGISTRATION_COMPLETE_MAIL_BODY = `Hi __FULL_NAME__. Please click on ${APP_LOGIN_URL} and use this password to login : __PASSWORD__
